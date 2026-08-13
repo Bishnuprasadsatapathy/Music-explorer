@@ -1,0 +1,10 @@
+{
+  "name": "SonicAI — Smart Sound System & Audio Control Platform",
+  "description": "AI-powered smart speaker control, 10-band graphic EQ, Web Audio DSP engine, room acoustic calibration, and Gemini AI sound optimization platform.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
